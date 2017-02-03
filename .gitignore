@@ -13,3 +13,6 @@ _ReSharper.*
 build/
 *.vssscc
 packages/*
+
+#For customized builds
+/build-*.bat
